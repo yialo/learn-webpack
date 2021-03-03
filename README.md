@@ -1,1 +1,1 @@
-# Here I study webpack 5
+# Learn webpack
